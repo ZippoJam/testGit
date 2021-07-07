@@ -1,0 +1,1 @@
+selet* from user group by sid
